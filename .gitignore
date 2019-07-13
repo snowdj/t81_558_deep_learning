@@ -1,3 +1,15 @@
+auto_submit.csv
+mpg_submit.csv
+iris_submit.csv
+test.csv
+train.csv
+iris-submit.csv
+auto-mpg-shuffle.csv
+
+*.npy
+network.yaml
+network.json
+*.pkl
 best_weights.hdf5
 *.h5
 kddcup.data_10_percent
