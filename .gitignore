@@ -1,3 +1,10 @@
+control.csv
+transformed.csv
+Untitled*.ipynb
+cem_*
+*.h5f
+CHECKPOINT
+*.pkl
 auto_submit.csv
 mpg_submit.csv
 iris_submit.csv
